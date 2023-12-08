@@ -1,4 +1,5 @@
-**Keyboard shortcuts**
+## **Keyboard shortcuts**
+
 <table>  
   <thead>
     <tr>
@@ -126,9 +127,13 @@
       <td>Ctrl + 9</td>
     </tr>
     <tr>
-      <td rowspan="9">Other shortcuts</td>
-      <td>Saved messages</td>
+      <td rowspan="10">Other shortcuts</td>
+      <td>Saved Messages</td>
       <td>Ctrl + 0</td>
+    </tr>
+    <tr>
+      <td>Open Downloads window</td>
+      <td>Ctrl + J</td>
     </tr>
     <tr>
       <td rowspan="2">Go back</td>
